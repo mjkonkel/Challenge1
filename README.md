@@ -12,6 +12,8 @@ N/A
 
 ## Usage
 
+[Link to deployed URL](https://mjkonkel.github.io/Challenge1/)
+
 By opening Chrome Dev Tools (right-click on the webpage and select inspect) you can view the code for the page and see how different parts of the code are affecting different sections of the webpage. 
 
 ![alt text](assets/images/Screenshot-inspect.jpg)
